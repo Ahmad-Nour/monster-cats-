@@ -18,7 +18,6 @@ const App = () => {
   }, []);
 
   useEffect(() => {
-    console.log(searchedString)
     if (searchedString === '' || !searchedString) {
       setFilteredMonsters(monsters);
     }
