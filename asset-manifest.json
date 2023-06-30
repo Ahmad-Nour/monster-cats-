@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-cats-/index.html/static/css/main.a41b9604.css",
+    "main.js": "/monster-cats-/index.html/static/js/main.a9477af0.js",
+    "static/js/787.71774a75.chunk.js": "/monster-cats-/index.html/static/js/787.71774a75.chunk.js",
+    "index.html": "/monster-cats-/index.html/index.html",
+    "main.a41b9604.css.map": "/monster-cats-/index.html/static/css/main.a41b9604.css.map",
+    "main.a9477af0.js.map": "/monster-cats-/index.html/static/js/main.a9477af0.js.map",
+    "787.71774a75.chunk.js.map": "/monster-cats-/index.html/static/js/787.71774a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41b9604.css",
+    "static/js/main.a9477af0.js"
+  ]
+}
